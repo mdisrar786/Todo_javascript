@@ -23,5 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function updateDisplay() {
         countDisplay.textContent = count;
+        
     }
 });
